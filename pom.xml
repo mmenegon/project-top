@@ -19,7 +19,7 @@
     <snapshotRepository>
       <id>snapshots</id>
       <name>hellraiser-snapshots</name>
-      <url>http://localhost:8081/artifactory/libs-snapshot</url>
+      <url>http://10.210.4.119:8081/artifactory/libs-snapshot</url>
     </snapshotRepository>
   </distributionManagement>
 </project>
